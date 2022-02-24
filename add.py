@@ -1,5 +1,5 @@
-a=int
-b=int
+a=5
+b=2
 c=a+b
 d=a-b
 print(c)
