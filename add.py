@@ -1,4 +1,6 @@
 a=int
 b=int
 c=a+b
-print(C)
+d=a-b
+print(c)
+print(d)
